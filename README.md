@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm zerocodeai</h1>
 <h3 align="center">The most easiest No-Code AI tool</h3>
-<img align="right" alt="Coding" width="400" src=“https://i.pinimg.com/originals/4b/51/03/4b510366962a06bd830e3166ddef7260.gif”>
 
 - 🔭 I’m currently working on **AI/ML**
 
 - 🌱 You can use me for **Computer Vision, NLP, Tabular Data**
 
-- 💬 Ask me about **AI or ML tasks**
+- 💬 Ask me about **NO-Code AI or ML tasks**
 
 - 📫 How to reach me **https://www.zerocodeai.com**
 
