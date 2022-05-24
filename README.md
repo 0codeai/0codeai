@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm zerocodeai</h1>
 <h3 align="center">The most easiest No-Code AI tool</h3>
 
-- 🔭 I’m currently working on **AI/ML**
 
 - 🌱 You can use me for **Computer Vision, NLP, Tabular Data**
 
